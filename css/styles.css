@@ -14,3 +14,9 @@ p{
     
     font-size: 18px;
 }
+.column{
+    padding-right: 70px;
+}
+.bold{
+    font-style: italic;
+}
