@@ -24,3 +24,9 @@ p{
 .ul{
     font-style: italic;
 }
+.ul p{
+    color: darkblue;
+}
+.ol p{
+    color: darkslateblue;
+}
